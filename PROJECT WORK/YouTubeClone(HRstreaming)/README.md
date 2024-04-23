@@ -2,9 +2,11 @@
 
 STEPS TO RUN PROJECT
 
+
 install node moduls
-for client and server both
-first run client cmd is npm start
+
+for client and server both first run client cmd is npm start
+
 after that run server cmd is node index.js
 
 
