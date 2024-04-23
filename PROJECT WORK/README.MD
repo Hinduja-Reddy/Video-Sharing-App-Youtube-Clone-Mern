@@ -1,5 +1,5 @@
-PROJECT RELATED FILES
+Project Related Executable Files
 
-DOCUMENTS
+Documents
 
-VIDEO DEMO
+Demo
