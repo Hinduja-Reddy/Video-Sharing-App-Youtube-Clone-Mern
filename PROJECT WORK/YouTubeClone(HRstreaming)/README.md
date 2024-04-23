@@ -1,6 +1,6 @@
 # Video-Sharing-app-MERN
 
-STEPS TO RUN PROJECT
+##STEPS TO RUN PROJECT
 
 
 install node moduls
