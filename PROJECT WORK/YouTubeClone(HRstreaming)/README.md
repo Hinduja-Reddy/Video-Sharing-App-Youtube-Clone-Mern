@@ -1,7 +1,11 @@
 # Video-Sharing-app-MERN
 
-PROJECT EXECUTABLE FILES
+STEPS TO RUN PROJECT
 
+install node moduls
+for client and server both
+first run client cmd is npm start
+after that run server cmd is node index.js
 
 
 
