@@ -1,0 +1,58 @@
+.authentication-page {
+    padding-top: 12vh; /* Reduced padding top */
+}
+
+.auth-component {
+    width: 40%; /* Adjusted width */
+    margin: 0 auto; /* Centered horizontally */
+    text-align: center;
+    padding: 3vh 2vw; /* Adjusted padding */
+    border-radius: 0.5rem; /* Reduced border radius */
+    box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.1); /* Standardized box shadow */
+}
+
+.auth-component h3 {
+    color: #007bff; /* Standard blue color */
+    margin-bottom: 3vh;
+}
+
+.auth-component input {
+    outline: none;
+    border: 1px solid #ced4da; /* Standard border color */
+    border-radius: 0.3rem; /* Reduced border radius */
+    padding: 8px 12px; /* Adjusted padding */
+}
+
+.auth-component label {
+    color: #6c757d; /* Gray color */
+}
+
+.profilePicDiv label {
+    text-align: left;
+}
+
+.auth-component button {
+    min-width: 40%; /* Adjusted minimum width */
+    border-radius: 0.3rem; /* Reduced border radius */
+    background-color: #007bff; /* Standard blue color */
+    border: none;
+    color: #fff; /* White color */
+    padding: 8px 16px; /* Adjusted padding */
+    cursor: pointer;
+}
+
+.auth-component button:hover {
+    background-color: #0056b3; /* Darker blue color on hover */
+}
+
+.auth-component p {
+    margin: 0;
+    margin-top: 10px;
+    font-size: 0.9rem;
+    color: #6c757d; /* Gray color */
+}
+
+.auth-component p span {
+    color: #007bff; /* Standard blue color */
+    cursor: pointer;
+}
